@@ -1,3 +1,3 @@
-# School project
+# Hello, world! 
  
-### For coding class
+### My first github repo for the CS50 course
