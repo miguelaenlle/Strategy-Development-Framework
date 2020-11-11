@@ -1,3 +1,3 @@
-# Strategy Development Framework
+# School project
  
-### Ignore this
+### For coding class
